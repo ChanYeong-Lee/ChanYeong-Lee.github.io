@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "ChanYeong-Lee"
-  avatar           : "/assets/images/tiger.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/tiger.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "반가워요."
   location         : "Korea"
   email            :
