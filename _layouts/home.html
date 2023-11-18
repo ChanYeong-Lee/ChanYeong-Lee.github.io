@@ -19,4 +19,13 @@ layout: archive
   {% endfor %}
 </div>
 
+            <script>
+            var gitbook = gitbook || [];
+            gitbook.push(function() {
+                gitbook.page.hasChanged({include metadata-home.json.tpl});
+            });
+            </script>
+        </div>
+
+        {%- include footer.html -%}
 {% include paginator.html %}
